@@ -1,0 +1,15 @@
+There are three operator
+1. unary operator
+    - it will required only one operand
+2. binary operator
+    - it will required two operand
+3. ternary operator
+    - it will required three operand
+
+
+Binary Operator:
+1. Airthmatic Operator : + , - , * , / , % , **
+2. Assignment Operator : = , (+=, -=, *=, /=, %=, **=) - short hand property
+3. Relational Operator / comparision operator : == , != , < , > , <= , >=
+4. Logical Operator : && , || , !
+5. Bitwise Operator : & , | , ^

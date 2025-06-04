@@ -1,0 +1,5 @@
+Area of Circle
+Area of Triangle
+Area of Rectangle
+Area of semi circle 
+revrse number : number reverse 

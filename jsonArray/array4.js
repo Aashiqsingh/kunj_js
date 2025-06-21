@@ -117,6 +117,14 @@ var company = [
   ]
 
 
+// let x = company.find((comp)=> comp.employees.find((emp)=> emp.name === "Emily Davis")).employees.find((emp)=> emp.name === "Emily Davis").position
+// console.log(x);
+
+// let x = company.find((comp)=> comp.employees.find((emp)=> emp.name === "Liam Wilson")).companyname
+// console.log(x);
+
+// let x = company.find((comp)=> comp.companyname === "Tech Solutions").employees.reduce((sum,emp)=> sum + (emp.salary/2),0)
+// console.log(x);
 
 
 
